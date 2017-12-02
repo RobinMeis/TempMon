@@ -10,5 +10,6 @@ TempMon is based on NodeMCU Lua. To build the firmware, you can visit https://no
 -DHT
 -end user Setup
 -MQTT
+-ADC
 
 You need the float firmware!
