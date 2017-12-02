@@ -1,6 +1,8 @@
 # TempMon
 An ESP8266 and DHT11 based MQTT temperature and humidity sensor
 
+CURRENTLY UNDER DEVELOPMENT!!!
+
 # Software
 The software is located in software/
 ## Firmware
